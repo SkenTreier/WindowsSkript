@@ -1,0 +1,7 @@
+FirstName;LastName;SamAccountName;Department;Role;Password
+Kadi;Tamm;kaditamm;IKT;opilane;Parool1!
+Terje;Lepp;terjelepp;IKT;opilane;Parool1!
+Tonis;Kokk;toniskokk;IKT;opilane;Parool1!
+Su;Ema;suema;IKT;opilane;Parool1!
+Heidi;Magi;heidimagi;IKT;opilane;Parool1!
+Sken;Treier;skentreier;IKT;opilane;Parool1!
